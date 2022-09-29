@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="14.558906">
+<testcase classname="Login  in Functionality" name="User Register in WebAaplication" time="9.901263">
+<system-out><![CDATA[Given user Launch The Asian Cloud Aplication................................passed
+When user Click The Register Button And Navigate To The Register page.......passed
+And user Enter The Username In Username Field...............................passed
+And user Enter The Password In The Password Field...........................passed
+And user Reenter The Password In The Conform Password Field.................passed
+And user Click The Register Button Navigate To Asiancloud Homepage..........passed
+]]></system-out>
+</testcase>
+<testcase classname="Login  in Functionality" name="user Login In Web Application" time="4.657643">
+<system-out><![CDATA[When user Enter The Username In The Username Field..........................passed
+And user Enter The  Password In The Password field..........................passed
+Then user Click On The  Sign Button And User Navigates To The Homepage......passed
+]]></system-out>
+</testcase>
+</testsuite>
